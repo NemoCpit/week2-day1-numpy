@@ -22,6 +22,8 @@ v2 = np.array([3, 7])
 
 print("v1 + v2 =", v1 + v2)
 print("2 * v1 =", 2 * v1)
+
+
 💡 Purpose:
 To understand how AI software works with numerical data and vector operations
 This is the base step for building smarter applications like:
