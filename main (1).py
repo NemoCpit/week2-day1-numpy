@@ -1,3 +1,5 @@
+# Day 1 – NumPy Vector Practice by NemoCpit
+# Task: Vector addition and scalar multiplication
 import numpy as np
 # Create a Numpy vector
 v1 = np.array([5, 2])
